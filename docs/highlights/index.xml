@@ -2,88 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inrae</title>
-    <link>https://github.com/rhax-recover/rhax.git/highlights/</link>
+    <link>https://rhax-recover.github.io/rhax/highlights/</link>
     <description>Recent content on Inrae</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://github.com/rhax-recover/rhax.git/highlights/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Highlight 1</title>
-      <link>https://github.com/rhax-recover/rhax.git/highlights/highlight1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/rhax-recover/rhax.git/highlights/highlight1/</guid>
-      <description>
-        
-          
-            &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porttitor, lorem
-eget malesuada ornare, mi velit gravida lacus, egestas consequat.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Highlight 2</title>
-      <link>https://github.com/rhax-recover/rhax.git/highlights/highlight2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/rhax-recover/rhax.git/highlights/highlight2/</guid>
-      <description>
-        
-          
-            &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porttitor, lorem
-eget malesuada ornare, mi velit gravida lacus, egestas consequat.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Highlight 3</title>
-      <link>https://github.com/rhax-recover/rhax.git/highlights/highlight3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/rhax-recover/rhax.git/highlights/highlight3/</guid>
-      <description>
-        
-          
-            &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porttitor, lorem
-eget malesuada ornare, mi velit gravida lacus, egestas consequat.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://github.com/rhax-recover/rhax.git/highlights/_index.ca/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/rhax-recover/rhax.git/highlights/_index.ca/</guid>
-      <description>
-        
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://github.com/rhax-recover/rhax.git/highlights/_index.es/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/rhax-recover/rhax.git/highlights/_index.es/</guid>
-      <description>
-        
-          
-          
-        
-      </description>
-    </item>
-    
+    <language>fr-fr</language><atom:link href="https://rhax-recover.github.io/rhax/highlights/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
