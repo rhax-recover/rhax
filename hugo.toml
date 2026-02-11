@@ -1,4 +1,4 @@
-baseURL = "https://rhax-recover.github.io/rhax/"
+baseURL = "https://github.com/rhax-recover/rhax.git"
 publishDir = "docs"
 theme = "hugo-clarity"
 languageCode = "fr-fr"
