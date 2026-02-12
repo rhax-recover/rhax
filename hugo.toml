@@ -4,8 +4,6 @@ theme = "hugo-clarity"
 languageCode = "fr-fr"
 title = "Inrae"
 
-
-
 [[menu.sidebar]]
   name = "RHAX"
   url = "/"
