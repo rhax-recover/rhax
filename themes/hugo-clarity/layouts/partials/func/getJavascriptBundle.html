@@ -12,8 +12,8 @@
 {{ $code := resources.Get $codeScriptPath | resources.ExecuteAsTemplate $codeScriptPath . }}
 
 {{ $customScriptPath := "js/custom.js" }}
-{{ if (fileExists "themes/hugo-clarity/assets/js/custom.js") }}
-  {{ $customScriptPath := "themes/hugo-clarity/assets/js/custom.js" }}
+{{ if (fileExists "../../assets/js/custom.js") }}
+  {{ $customScriptPath := "../../assets/js/custom.js" }}
 {{ end }}
 {{ $custom := resources.Get $customScriptPath | resources.ExecuteAsTemplate $customScriptPath . }}
 
