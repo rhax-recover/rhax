@@ -20,4 +20,4 @@ Les approches développées sont basées sur la modélisation des processus et l
 
 
 
-[📊 Voir la présentation](images/presentation-INRAE-Juil2020.pptx)
+[📊 Voir la présentation](files/presentation-INRAE-Juil2020.pptx)
