@@ -2,7 +2,7 @@ baseURL = "https://rhax-recover.github.io/rhax/"
 publishDir = "docs"
 theme = "hugo-clarity"
 languageCode = "fr-fr"
-title = "Inrae"
+
 
 [[menu.sidebar]]
   name = "RHAX"
