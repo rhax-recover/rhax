@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rhax on Inrae</title>
-    <link>https://github.com/rhax-recover/rhax.git/</link>
+    <link>https://rhax-recover.github.io/rhax/</link>
     <description>Recent content in rhax on Inrae</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://github.com/rhax-recover/rhax.git/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="https://rhax-recover.github.io/rhax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Section 1</title>
-      <link>https://github.com/rhax-recover/rhax.git/sections/section1/</link>
+      <link>https://rhax-recover.github.io/rhax/sections/section1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/rhax-recover/rhax.git/sections/section1/</guid>
+      <guid>https://rhax-recover.github.io/rhax/sections/section1/</guid>
       <description>
         
           
@@ -32,10 +32,10 @@ orci aliquet pulvinar.&lt;/p&gt;
     
     <item>
       <title>Section 2</title>
-      <link>https://github.com/rhax-recover/rhax.git/sections/section2/</link>
+      <link>https://rhax-recover.github.io/rhax/sections/section2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/rhax-recover/rhax.git/sections/section2/</guid>
+      <guid>https://rhax-recover.github.io/rhax/sections/section2/</guid>
       <description>
         
           
@@ -55,10 +55,10 @@ porta nec nunc quis, bibendum consequat massa.&lt;/p&gt;
     
     <item>
       <title>Section 3</title>
-      <link>https://github.com/rhax-recover/rhax.git/sections/section3/</link>
+      <link>https://rhax-recover.github.io/rhax/sections/section3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/rhax-recover/rhax.git/sections/section3/</guid>
+      <guid>https://rhax-recover.github.io/rhax/sections/section3/</guid>
       <description>
         
           
@@ -77,10 +77,10 @@ arcu a quam scelerisque sodales. Morbi vitae nunc dui. Cras ut congue elit.&lt;/
     
     <item>
       <title></title>
-      <link>https://github.com/rhax-recover/rhax.git/sections/_index.ca/</link>
+      <link>https://rhax-recover.github.io/rhax/sections/_index.ca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/rhax-recover/rhax.git/sections/_index.ca/</guid>
+      <guid>https://rhax-recover.github.io/rhax/sections/_index.ca/</guid>
       <description>
         
           
@@ -91,10 +91,10 @@ arcu a quam scelerisque sodales. Morbi vitae nunc dui. Cras ut congue elit.&lt;/
     
     <item>
       <title></title>
-      <link>https://github.com/rhax-recover/rhax.git/sections/_index.es/</link>
+      <link>https://rhax-recover.github.io/rhax/sections/_index.es/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/rhax-recover/rhax.git/sections/_index.es/</guid>
+      <guid>https://rhax-recover.github.io/rhax/sections/_index.es/</guid>
       <description>
         
           
