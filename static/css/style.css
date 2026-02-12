@@ -9,7 +9,7 @@
   top: 100%;           
   left: 0;
   background-color: #fff; 
-  min-width: auto;  
+  min-width: 500px;  
   width: max-content;  
   z-index: 1000;       
   padding: 0.5em 0;
