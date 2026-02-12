@@ -1,4 +1,4 @@
-baseURL = "https://rhax-recover.github.io/rhax/"
+baseURL = "https://github.com/rhax-recover/rhax.git/"
 publishDir = "docs"
 theme = "hugo-clarity"
 languageCode = "fr-fr"
@@ -29,7 +29,7 @@ title = "Inrae"
 [[menu.main]]
   identifier = "equipe"
   name = "Équipe"
-  url = "/equipe/"
+  url = "#"
   weight = 2
 
 [[menu.main]]
