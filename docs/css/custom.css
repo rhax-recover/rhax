@@ -1,3 +1,36 @@
+/* Force le dropdown du menu Équipe */
+.nav_parent {
+  position: relative; /* nécessaire pour le positionnement du sous-menu */
+}
+
+.nav_sub {
+  display: none;       
+  position: absolute;  
+  top: 100%;           
+  left: 0;
+  background-color: #fff; 
+  min-width: 200px;    
+  z-index: 1000;       
+  padding: 0.5em 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.nav_parent:hover .nav_sub {
+  display: block;
+}
+
+.nav_sub a {
+  display: block;
+  padding: 0.5em 1em;
+  color: #000;          
+  text-decoration: none;
+}
+
+.nav_sub a:hover {
+  background-color: #f0f0f0; 
+}
+
+
 .page-hero {
   height: 250px; /* ← change CE nombre */
   overflow: hidden;
