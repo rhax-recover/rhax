@@ -16,8 +16,8 @@ Les approches développées sont basées sur la modélisation des processus et l
 
 <a href="Plaquette RECOVER 2020 ENG_cb.pdf" target="_blank" style="color:#00a3a6; font-weight:bold;">Plaquette RECOVER 2020 ENG</a>
 
-<a href="presentation-INRAE-Juil2020.pptx" target="_blank" style="color:#00a3a6; font-weight:bold;">presentation-INRAE-Juil2020</a>
+<a href="presentation-INRAE-Juil2020.PPTX" target="_blank" style="color:#00a3a6; font-weight:bold;">presentation-INRAE-Juil2020</a>
 
 
 
-[📊 Voir la présentation](files/presentation-INRAE-Juil2020.pptx)
+[Présentation INRAE juillet 2020](files/presentation-INRAE-Juil2020.PPTX)
