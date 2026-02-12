@@ -39,7 +39,7 @@
 "{{ $bundle.Data.Integrity }}" crossorigin="anonymous">
 
 <!-- link main css file -->
-<link rel="stylesheet" type="text/css" href="{{ $styles.Permalink }}"crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous">
 <!-- load all custom css files -->
 {{- with $params.customCSS }}
   {{- range . -}}
