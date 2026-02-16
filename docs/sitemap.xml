@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rhax-recover.github.io/rhax/about/about1/</loc>
+    <loc>http://localhost:1313/rhax/about/about1/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/highlights/highlight1/</loc>
+    <loc>http://localhost:1313/rhax/highlights/highlight1/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/sections/section1/</loc>
+    <loc>http://localhost:1313/rhax/sections/section1/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/about/about2/</loc>
+    <loc>http://localhost:1313/rhax/about/about2/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/highlights/highlight2/</loc>
+    <loc>http://localhost:1313/rhax/highlights/highlight2/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/sections/section2/</loc>
+    <loc>http://localhost:1313/rhax/sections/section2/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/highlights/highlight3/</loc>
+    <loc>http://localhost:1313/rhax/highlights/highlight3/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/sections/section3/</loc>
+    <loc>http://localhost:1313/rhax/sections/section3/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/highlights/_index.ca/</loc>
+    <loc>http://localhost:1313/rhax/highlights/_index.ca/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/highlights/</loc>
+    <loc>http://localhost:1313/rhax/highlights/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/highlights/_index.es/</loc>
+    <loc>http://localhost:1313/rhax/highlights/_index.es/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/sections/_index.ca/</loc>
+    <loc>http://localhost:1313/rhax/sections/_index.ca/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/sections/</loc>
+    <loc>http://localhost:1313/rhax/sections/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/sections/_index.es/</loc>
+    <loc>http://localhost:1313/rhax/sections/_index.es/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/about/</loc>
+    <loc>http://localhost:1313/rhax/about/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/equipe/anciens/</loc>
+    <loc>http://localhost:1313/rhax/equipe/anciens/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/outils/base_donnees/</loc>
+    <loc>http://localhost:1313/rhax/outils/base_donnees/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/recherche/</loc>
+    <loc>http://localhost:1313/rhax/recherche/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/categories/</loc>
+    <loc>http://localhost:1313/rhax/categories/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/equipe/</loc>
+    <loc>http://localhost:1313/rhax/equipe/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/legal/legal1/</loc>
+    <loc>http://localhost:1313/rhax/legal/legal1/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/legal/legal2/</loc>
+    <loc>http://localhost:1313/rhax/legal/legal2/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/legal/</loc>
+    <loc>http://localhost:1313/rhax/legal/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/outils/logiciels/</loc>
+    <loc>http://localhost:1313/rhax/outils/logiciels/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/equipe/actuel/</loc>
+    <loc>http://localhost:1313/rhax/equipe/actuel/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/outils/modele/</loc>
+    <loc>http://localhost:1313/rhax/outils/modele/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/outils/</loc>
+    <loc>http://localhost:1313/rhax/outils/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/recherche/projets/</loc>
+    <loc>http://localhost:1313/rhax/recherche/projets/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/recherche/publications/</loc>
+    <loc>http://localhost:1313/rhax/recherche/publications/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/</loc>
+    <loc>http://localhost:1313/rhax/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/tags/</loc>
+    <loc>http://localhost:1313/rhax/tags/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/recherche/themes/</loc>
+    <loc>http://localhost:1313/rhax/recherche/themes/</loc>
   </url><url>
-    <loc>https://rhax-recover.github.io/rhax/recherche/theses/</loc>
+    <loc>http://localhost:1313/rhax/recherche/theses/</loc>
   </url>
 </urlset>
