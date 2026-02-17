@@ -56,6 +56,6 @@ languageCode = "fr-fr"
   showDate = false
   showReadingTime = false
   showShare = false
-  customCSS = ["css/custom.css"]
+  customCSS = ["css/style.css"]
 
 
