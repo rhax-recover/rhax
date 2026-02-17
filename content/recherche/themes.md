@@ -1,6 +1,6 @@
 ---
 title: "Themes"
-image: "/images/themes.png"
+image: "../../images/themes.png"
 menu:
   main:
     parent: "Recherches"
