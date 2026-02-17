@@ -9,7 +9,7 @@
   top: 100%;           
   left: 0;
   background-color: #fff; 
-  min-width: 500px;  
+  min-width: 200px;  
   width: max-content;  
   z-index: 1000;       
   padding: 0.5em 0;
@@ -29,6 +29,14 @@
 
 .nav_sub a:hover {
   background-color: #f0f0f0; 
+}
+
+.btn {
+  background:#3b82f6;
+  color:white;
+  padding:10px 20px;
+  border-radius:8px;
+  text-decoration:none;
 }
 
 
@@ -73,8 +81,8 @@
   background: white;
   padding: 15px 0;
   margin-top: 0px;
-position: relative; /* IMPORTANT : pas sticky */ 
-z-index: 10;
+  position: relative; /* IMPORTANT : pas sticky */ 
+  z-index: 10;
 
 }
 
@@ -83,8 +91,8 @@ z-index: 10;
   display: flex;
   align-items: center;
   gap: 15px;
-margin-left: 30px; /* alignement à gauche */
- width: fit-content; /* IMPORTANT : empêche l’étalement */
+  margin-left: 30px; /* alignement à gauche */
+  width: fit-content; /* IMPORTANT : empêche l’étalement */
 
 }
 
@@ -100,10 +108,9 @@ margin-left: 30px; /* alignement à gauche */
   height: 20px;
 }
 
-
 /* bande avec les menu */
 .menu-wrapper { 
-    width: 100%;
+  width: 100%;
   z-index: 100;
   background: #010405; 
 }
@@ -162,13 +169,13 @@ body {
 .home-hero-content {
   background: rgba(255,255,255,0.8);
   color: white;
-  padding: 0.5px 10px;
-  text-align: center;
+  
 }
 
 .titre-inrae {
   color: #00a3a6;   /* Bleu officiel INRAE */
   font-weight: bold; /* Optionnel, rend le texte gras */
+
 }
 
 /* Listes à puces */
@@ -181,19 +188,33 @@ ul {
 ul li {
   line-height: 1.5em;
 }
- 
+
 /* Titres */
-h1, h2, h3, h4 {
+h1, h3, h4 {
   font-weight: bold;
   margin-top: 0em;
   margin-bottom: 0.em; /* réduit l'espace après le titre */
+  text-align: ;
+ padding: 0rem 15rem;
 }
+
+/* Titres */
+h2 {
+  font-weight: bold;
+  margin-top: 0em;
+  margin-bottom: 0.em; /* réduit l'espace après le titre */
+  text-align: ;
+  padding: 0rem 1rem;
+
+ }
+
 
 /* Texte normal */
 p {
   text-align: justify;  /* justifie le texte comme sur ton image */
-  line-height: 1em;   /* espace entre les lignes */
-  margin-bottom: 0em;
+  line-height: 1.6em;   /* espace entre les lignes */
+  margin-bottom: 1em;
+  padding: 0rem 15rem;
 }
 
 
@@ -224,4 +245,5 @@ body::before {
   z-index: 999999;
   padding: 5px;
 }
+
 
